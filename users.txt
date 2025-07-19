@@ -1,0 +1,3 @@
+John,Doe,john.doe@example.com,secure123,01012345678
+Aya,Mohamed,aya.mohamed@gmail.com,password456,01198765432
+mimo,shahin,madmaxst48@gmail.com,12345678,01555517867
