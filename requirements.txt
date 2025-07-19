@@ -1,0 +1,19 @@
+# Crowdfunding Platform - Python Dependencies
+# 
+# This project uses only Python standard library modules.
+# No external packages need to be installed!
+#
+# Required Python version: 3.7 or higher
+#
+# Standard library modules used:
+# - os (file system operations)
+# - re (regular expressions for validation)
+# - datetime (date handling and validation)
+#
+# To run this application, simply ensure you have Python 3.7+ installed:
+# python --version
+#
+# Then run the application:
+# python main.py
+#
+# No pip install commands needed! 🎉
